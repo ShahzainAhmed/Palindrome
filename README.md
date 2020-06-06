@@ -4,4 +4,6 @@
 - 222
 - 121
 
-### Program Description: 
+## Program Description: 
+The program takes a number and checks whether it is a palindrome or not.
+
